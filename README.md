@@ -24,10 +24,13 @@ High | $128,000
 
 ## Standard Education
 ### **Canadian Institution:** UBC
+#### **Program:** Data Science
+
 At the University of British Columbia (UBC), Data Science is offered at their Okanagan campus in various ways. It is a 4-year undergraduate program under the Bachelor of Science (BSc). Students can pursue this field by completing a BSc with a Major in Data Science or a BSc Data Science Honours. 
 
 <img src="https://grantme.ca/wp-content/uploads/2020/12/UBC-1200x808.jpg" alt="drawing" width="400"/> <img src="https://www.stoodnt.com/blog/wp-content/uploads/2022/05/UoT_UBC_Waterloo_CS.jpg" alt="drawing" width="400"/>
 
+[Data Science Program Website](https://you.ubc.ca/ubc_programs/data-science/)
 
 #### Entrance Requirements
 General admission requirements for all high school students applying to UBC include high school graduation and at least six Grade 12 courses. Entrance requirements when applying to UBC’s BSc at Okanagan are these courses: 
@@ -55,7 +58,7 @@ In your first year, compulsory courses include:
 **MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering:**
 > Derivatives of elementary functions, limits. Covers applications and modelling: graphing and optimization.
 
-##### A sample of other things necessary to complete the degree or diploma requirements:
+#### A sample of other things necessary to complete the degree or diploma requirements:
 To be eligible for graduation with the BSc degree, you must complete at least 48 credits at the 300/400 level, of which at least 30 credits must be completed at UBC. A GPA minimum of 60% is needed. 
 
 In your third and fourth year, there will be an extension of the first year courses, including more math, Statistics, Data, Computer Ethics, Psychometrics, and Advanced Field Ecology. 
