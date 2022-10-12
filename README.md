@@ -26,8 +26,7 @@ High | $128,000
 ### **Canadian Institution:** UBC
 At the University of British Columbia (UBC), Data Science is offered at their Okanagan campus in various ways. It is a 4-year undergraduate program under the Bachelor of Science (BSc). Students can pursue this field by completing a BSc with a Major in Data Science or a BSc Data Science Honours. 
 
-<img src="https://grantme.ca/wp-content/uploads/2020/12/UBC-1200x808.jpg" alt="drawing" width="400"/>
-<img src="https://www.stoodnt.com/blog/wp-content/uploads/2022/05/UoT_UBC_Waterloo_CS.jpg" alt="drawing" width="400"/>
+<img src="https://grantme.ca/wp-content/uploads/2020/12/UBC-1200x808.jpg" alt="drawing" width="400"/> <img src="https://www.stoodnt.com/blog/wp-content/uploads/2022/05/UoT_UBC_Waterloo_CS.jpg" alt="drawing" width="400"/>
 
 
 #### Entrance Requirements
