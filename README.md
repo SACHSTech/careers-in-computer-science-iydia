@@ -128,26 +128,26 @@ At 8Twelve Mortgage, this role is responsible for supporting data and reporting 
 * Experience working with data mining, performing quantitative analysis, machine Learning algorithms and associated data sets
 
 ## Works Cited
-Miroshnichenko, Tima. “Bearded Man in White Button up Shirt Sitting in Front of Laptop Feeling Excited · Free Stock Photo.” Pexels.com, Pexels, 20 Apr. 2021, www.pexels.com/photo/bearded-man-in-white-button-up-shirt-sitting-in-front-of-laptop-feeling-excited-7567444/. Accessed 11 Oct. 2022.
+Miroshnichenko, Tima. “Bearded Man in White Button up Shirt Sitting in Front of Laptop Feeling Excited · Free Stock Photo.” Pexels.com, Pexels, 20 Apr. 2021, <www.pexels.com/photo/bearded-man-in-white-button-up-shirt-sitting-in-front-of-laptop-feeling-excited-7567444/>. Accessed 11 Oct. 2022.
 
-“Data Analyst - Langley, BC - Indeed.com.” Indeed.com, 2022, ca.indeed.com/viewjob?jk=bba7d0116c0ce2d7&q=data+analyst&l=British+Columbia&tk=1gf4rplgcjjh0800&from=web&advn=6792628755606027&adid=96729889&ad=-6NYlbfkN0CLwLrajAGAbgAYjiUblY-6b-9w6IoCEvwVKZtlWK25F3lCP3W7eGL1gUafOA1DE3DKuqipz5Zjz7uJO4bECBP10JtkhwjGIW4L-dn1WdLyXqmKMKygORCILvyAgH5PWGc4WzKKNbnP4gzb9mRiN1F_hTLD3Wko7gfp7OotpT7kFst0j5ZIW6w5vl8q-HPlM6cu0YX2Go5U8i_3vyXkcnDjsu5cjSmvjiGbEFDgCtA4eE0oBjcgPNLksUVkUe97M5cyOGDA8vsXILbFv4dNHoaNjEqTfYBfFBbntM6SKCiHrAMDG_0UF_ZdOtzE2MTyTXsgnnbQycpJXSv5WXmr3I279yPEf_PVYhE6vghSQ3QWN7o6fYwLNqr1&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDI-_M3Yk_paP2YKR0IbzkdCdPP&vjs=3 . Accessed 11 Oct. 2022.
+“Data Analyst - Langley, BC - Indeed.com.” Indeed.com, 2022, <ca.indeed.com/viewjob?jk=bba7d0116c0ce2d7&q=data+analyst&l=British+Columbia&tk=1gf4rplgcjjh0800&from=web&advn=6792628755606027&adid=96729889&ad=-6NYlbfkN0CLwLrajAGAbgAYjiUblY-6b-9w6IoCEvwVKZtlWK25F3lCP3W7eGL1gUafOA1DE3DKuqipz5Zjz7uJO4bECBP10JtkhwjGIW4L-dn1WdLyXqmKMKygORCILvyAgH5PWGc4WzKKNbnP4gzb9mRiN1F_hTLD3Wko7gfp7OotpT7kFst0j5ZIW6w5vl8q-HPlM6cu0YX2Go5U8i_3vyXkcnDjsu5cjSmvjiGbEFDgCtA4eE0oBjcgPNLksUVkUe97M5cyOGDA8vsXILbFv4dNHoaNjEqTfYBfFBbntM6SKCiHrAMDG_0UF_ZdOtzE2MTyTXsgnnbQycpJXSv5WXmr3I279yPEf_PVYhE6vghSQ3QWN7o6fYwLNqr1&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDI-_M3Yk_paP2YKR0IbzkdCdPP&vjs=3>. Accessed 11 Oct. 2022.
 
-“Data Analyst - Toronto, on - Indeed.com.” Indeed.com, 2022, ca.indeed.com/viewjob?cmp=RCI-technology-inc.&t=Data+Analyst&jk=86ce84da06d49a65&q=data+analyst&vjs=3. Accessed 11 Oct. 2022.
+“Data Analyst - Toronto, on - Indeed.com.” Indeed.com, 2022, <ca.indeed.com/viewjob?cmp=RCI-technology-inc.&t=Data+Analyst&jk=86ce84da06d49a65&q=data+analyst&vjs=3>. Accessed 11 Oct. 2022.
 
-“Data Analyst - Toronto, on - Indeed.com.” Indeed.com, 2022, ca.indeed.com/viewjob?jk=a291f49cbb92eb0d&q=data+analyst&l=Toronto%2C+ON&tk=1gf4qsjp1m0gh801&from=web&advn=8038104609827940&adid=399641105&ad=-6NYlbfkN0B13oYRMeoqJs-_K89cvwVHqMai1GDSu9flVgClN8jvdbNuLHK-5AKQDKLrnjslnZbVk5poVs8r83HXa3RcM_4t9kleGidxC-D6JrbhOgZTCMqxWwDgt2FBmFbG01t--DhELDqZZvi0ynJITUmQXKcZ-jwZnBjZCCOsdZSijBDDBIzoxfvsXhpjgtWKY5cFtZFUQpgBAkX_hFkDNr4A-X0adJx_w6lbwJNL3tqeizK9qpVWT2pn3REu80n3vG0mXKyKLMEN-OcxNkbf4XTbHoS9sxpNqxB9iR8aWqmuQTUAggdT6K8_RYILv7bbEaB7Ngpi3dzWm-kcDiSkNfnUo33Gm4OZnfgQ8ZO943j19FsJ8c9II4DoiUKq&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAI-_M3Yk99plADAT0KbzkdCdPP&vjs=3. Accessed 11 Oct. 2022.
+“Data Analyst - Toronto, on - Indeed.com.” Indeed.com, 2022, <ca.indeed.com/viewjob?jk=a291f49cbb92eb0d&q=data+analyst&l=Toronto%2C+ON&tk=1gf4qsjp1m0gh801&from=web&advn=8038104609827940&adid=399641105&ad=-6NYlbfkN0B13oYRMeoqJs-_K89cvwVHqMai1GDSu9flVgClN8jvdbNuLHK-5AKQDKLrnjslnZbVk5poVs8r83HXa3RcM_4t9kleGidxC-D6JrbhOgZTCMqxWwDgt2FBmFbG01t--DhELDqZZvi0ynJITUmQXKcZ-jwZnBjZCCOsdZSijBDDBIzoxfvsXhpjgtWKY5cFtZFUQpgBAkX_hFkDNr4A-X0adJx_w6lbwJNL3tqeizK9qpVWT2pn3REu80n3vG0mXKyKLMEN-OcxNkbf4XTbHoS9sxpNqxB9iR8aWqmuQTUAggdT6K8_RYILv7bbEaB7Ngpi3dzWm-kcDiSkNfnUo33Gm4OZnfgQ8ZO943j19FsJ8c9II4DoiUKq&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAI-_M3Yk99plADAT0KbzkdCdPP&vjs=3>. Accessed 11 Oct. 2022.
 
-“Data Science.” Ok.ubc.ca, 2022, cmps.ok.ubc.ca/undergraduate/data-science/. Accessed 11 Oct. 2022.
+“Data Science.” Ok.ubc.ca, 2022, <cmps.ok.ubc.ca/undergraduate/data-science/>. Accessed 11 Oct. 2022.
 
-“Data Science | UBC Undergraduate Programs and Admissions.” UBC | Undergraduate Programs and Admissions, 10 July 2020, you.ubc.ca/ubc_programs/data-science/. Accessed 11 Oct. 2022.
+“Data Science | UBC Undergraduate Programs and Admissions.” UBC | Undergraduate Programs and Admissions, 10 July 2020, <you.ubc.ca/ubc_programs/data-science/>. Accessed 11 Oct. 2022.
 
-“DATA SCIENCE and HEALTH WORKSHOP SERIES | Department of Medicine.” Med.ubc.ca, 2020, medicine.med.ubc.ca/ubc-dom-data-science-health-workshop-series/. Accessed 11 Oct. 2022.
+“DATA SCIENCE and HEALTH WORKSHOP SERIES | Department of Medicine.” Med.ubc.ca, 2020, <medicine.med.ubc.ca/ubc-dom-data-science-health-workshop-series/>. Accessed 11 Oct. 2022.
 
-“Degree Requirements for Students Who Entered the Program in 2020/2021 or Earlier - Bachelor of Arts Programs - Faculty of Arts and Social Sciences - Faculties, Schools, and Colleges - Okanagan Academic Calendar 2022/23 - UBC Student Services.” Calendar.ubc.ca, 2020, www.calendar.ubc.ca/okanagan/index.cfm?tree=18,282,857,1084. Accessed 11 Oct. 2022.
+“Degree Requirements for Students Who Entered the Program in 2020/2021 or Earlier - Bachelor of Arts Programs - Faculty of Arts and Social Sciences - Faculties, Schools, and Colleges - Okanagan Academic Calendar 2022/23 - UBC Student Services.” Calendar.ubc.ca, 2020, <www.calendar.ubc.ca/okanagan/index.cfm?tree=18,282,857,1084>. Accessed 11 Oct. 2022.
 
-Grantme.ca, 2022, grantme.ca/wp-content/uploads/2020/12/UBC-1200x808.jpg. Accessed 11 Oct. 2022.
+Grantme.ca, 2022, <grantme.ca/wp-content/uploads/2020/12/UBC-1200x808.jpg>. Accessed 11 Oct. 2022.
 
-“MyBlueprint: Work.” Myblueprint.ca, 2022, core.myblueprint.ca/V5/Work/Occupation. Accessed 11 Oct. 2022. 
+“MyBlueprint: Work.” Myblueprint.ca, 2022, <core.myblueprint.ca/V5/Work/Occupation>. Accessed 11 Oct. 2022. 
 
-“NFL Big Data Bowl 2023 | Kaggle.” Kaggle.com, 2019, www.kaggle.com/competitions/nfl-big-data-bowl-2023. Accessed 11 Oct. 2022.
+“NFL Big Data Bowl 2023 | Kaggle.” Kaggle.com, 2019, <www.kaggle.com/competitions/nfl-big-data-bowl-2023>. Accessed 11 Oct. 2022.
 
-Stoodnt.com, 2022, www.stoodnt.com/blog/wp-content/uploads/2022/05/UoT_UBC_Waterloo_CS.jpg. Accessed 11 Oct. 2022.
+Stoodnt.com, 2022, <www.stoodnt.com/blog/wp-content/uploads/2022/05/UoT_UBC_Waterloo_CS.jpg>. Accessed 11 Oct. 2022.
