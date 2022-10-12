@@ -67,7 +67,10 @@ In your third and fourth year, there will be an extension of the first year cour
 
 ## Valuable Experential Learning Opportunities
 ### Competitions
+Kaggle is the world's largest data science community regularly hosting analytics competitions, an upcoming one being the [NFL Big Data Bowl 2023](www.kaggle.com/competitions/nfl-big-data-bowl-2023). With powerful tools and resources to help you acquiring valuable experience for future jobs, there is much more to gain from this experience other than the $100,000 prize for the winner. By using player tracking data, you can apply the knowledge learned in university to generate practical and novel insights. Scored based on innovation, accuracy, relevance, clarity, and data visualization, this is a remarkable competition to not only obtain but demonstrate a deep understanding of Data Science for future jobs. With this experience, you can show your future employer that you are capable generate real-world conclusions with data. 
+
 ### Workshops
+[UBC's Data Science & Health Workshop Series](https://medicine.med.ubc.ca/ubc-dom-data-science-health-workshop-series/) is delivered through workshops or Zoom. Working with a team of engineers focused on health applications, your role is to get insight on potential data science solutions from the data they provide. From gaining technical skills in learning the process of making AI to the non-technical skill of teamwork and communication, you demonstrate fundamental and relevant skills for future jobs. 
 
 ## Real Jobs
 
