@@ -43,6 +43,8 @@ General admission requirements for all high school students applying to UBC incl
 **Grade 11:**
 > * SCH3U (Chemistry)
 
+---
+
 #### First-Year Courses
 In your first year, compulsory courses include:
 
@@ -58,10 +60,10 @@ In your first year, compulsory courses include:
 **MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering:**
 > Derivatives of elementary functions, limits. Covers applications and modelling: graphing and optimization.
 
-#### A sample of other things necessary to complete the degree or diploma requirements:
-To be eligible for graduation with the BSc degree, you must complete at least 48 credits at the 300/400 level, of which at least 30 credits must be completed at UBC. A GPA minimum of 60% is needed. 
+---
 
-In your third and fourth year, there will be an extension of the first year courses, including more math, Statistics, Data, Computer Ethics, Psychometrics, and Advanced Field Ecology. 
+#### A sample of other things necessary to complete the degree or diploma requirements:
+To be eligible for graduation with the BSc degree, you must complete at least 48 credits at the 300/400 level, of which at least 30 credits must be completed at UBC. A GPA minimum of 60% is needed. In your third and fourth year, there will be an extension of the first year courses, including more math, Statistics, Data, Computer Ethics, Psychometrics, and Advanced Field Ecology. 
 
 #### **Length of Time to Complete the Diploma:** 4 Years
 
