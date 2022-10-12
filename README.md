@@ -16,6 +16,11 @@ To become a Data Analyst, you need the knowledge and skills earned from a Univer
 Future Data Analysts should be prepared to demonstrate technical skills like using online tools and programs. Additional non-technical skills include usage of analytical skills, communication skills, being detail-oriented, having logical thinking, and problem-solving skills. 
 
 ### Salary Range
+Job Pay | Ontario Provincial Average Salary
+--- | ---
+Low | 52,000
+Median | $92,000
+High | $128,000
 
 ## Standard Education
 ### Canadian Institution 
