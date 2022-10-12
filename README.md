@@ -2,9 +2,13 @@
 # Careers in Computer Science
 Made by Lydia He
 
-# The Basics
-## Career and Description
-## Typical Duties and Responsibilities
+## The Basics
+### Job: Data Analyst
+<img src="https://images.pexels.com/photos/7567444/pexels-photo-7567444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="drawing" width="600"/>
+
+## Description, Typical Duties and Responsibilities
+Data Analysts use software to analyze information to make informed decisions. The information is then stored in the databases that Data Analysts test to find the data's reliability. Most Data Analysts work on teams and must be able to communicate effectively with developers, managers, and other workers. When working for a business, they must determine the success of specific initiatives based on past trends. 
+
 ## Required Education
 ## Required Technical and Non-Technical Skills
 ## Salary Range
