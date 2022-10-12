@@ -41,6 +41,21 @@ General admission requirements for all high school students applying to UBC incl
 > * SCH3U (Chemistry)
 
 #### First-Year Courses
+In your first year, compulsory courses include:
+**CHEM 111 - Principles of Chemistry I:**
+> Stoichiometry, atomic and molecular structure, chemical periodicity, gases, liquids, solids, and solutions. Not open to students with Chemistry 12.
+
+**COSC 111 - Computer Programming I:**
+> Introduction to the design, implementation, and understanding of computer programs. Topics include problem solving, algorithm design, and data and procedural abstraction, with emphasis on the development of working programs. This course should be followed by COSC 121.
+
+**PHYS 111 - Introductory Physics for the Physical Sciences I:**
+> Introduction to mechanics primarily for students majoring in the physical sciences (e.g. physics, chemistry, mathematics, computer science, geology, physical geography) or engineering. Particle kinematics and dynamics, work and energy, momentum, gravitation, rigid body motion, fluid statics and dynamics with applications to the physical sciences. Students with Physics 12 may apply for a tutorial exemption.
+
+**MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering:**
+> Derivatives of elementary functions, limits. Covers applications and modelling: graphing and optimization.
+
+##### A sample of other things necessary to complete the degree or diploma requirements:
+
 #### Length of Time to Complete the Diploma
 
 ## Valuable Experential Learning Opportunities
