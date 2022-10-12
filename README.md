@@ -94,6 +94,7 @@ At EV Logistics, the Operations Analyst ollects and analyzes operational data. A
 * Strong computer skills, including spreadsheets, databases, and word processing software.
 * Skills in particular site specific technology and/or site reporting tools (e.g., Oracle, MYSQL, SQL Servers, web development languages, etc.)
 
+---
 
 ### **Mid-Level Position (3-5 years experience):** [Analyst, Data and Analytics](https://ca.indeed.com/viewjob?cmp=RCI-technology-inc.&t=Data+Analyst&jk=86ce84da06d49a65&q=data+analyst&vjs=3)
 
@@ -108,6 +109,7 @@ At TalentBurst, Data Analysts must collect, synthesize and analyze data with sup
 * Must be legally entitled to work in Canada
 * Minimum 1-3 year industry experience
 
+---
 
 ### **Senior-Level Position (5+ years experience):** [Data Analyst](https://ca.indeed.com/viewjob?jk=a291f49cbb92eb0d&q=data+analyst&l=Toronto%2C+ON&tk=1gf4qsjp1m0gh801&from=web&advn=8038104609827940&adid=399641105&ad=-6NYlbfkN0B13oYRMeoqJs-_K89cvwVHqMai1GDSu9flVgClN8jvdbNuLHK-5AKQDKLrnjslnZbVk5poVs8r83HXa3RcM_4t9kleGidxC-D6JrbhOgZTCMqxWwDgt2FBmFbG01t--DhELDqZZvi0ynJITUmQXKcZ-jwZnBjZCCOsdZSijBDDBIzoxfvsXhpjgtWKY5cFtZFUQpgBAkX_hFkDNr4A-X0adJx_w6lbwJNL3tqeizK9qpVWT2pn3REu80n3vG0mXKyKLMEN-OcxNkbf4XTbHoS9sxpNqxB9iR8aWqmuQTUAggdT6K8_RYILv7bbEaB7Ngpi3dzWm-kcDiSkNfnUo33Gm4OZnfgQ8ZO943j19FsJ8c9II4DoiUKq&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAI-_M3Yk99plADAT0KbzkdCdPP&vjs=3)
 
