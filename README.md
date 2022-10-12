@@ -146,7 +146,7 @@ Miroshnichenko, Tima. “Bearded Man in White Button up Shirt Sitting in Front o
 
 Grantme.ca, 2022, <grantme.ca/wp-content/uploads/2020/12/UBC-1200x808.jpg>. Accessed 11 Oct. 2022.
 
-“MyBlueprint: Work.” Myblueprint.ca, 2022, <core.myblueprint.ca/V5/Work/Occupation>. Accessed 11 Oct. 2022. 
+“MyBlueprint: Work.” Myblueprint.ca, 2022, https://core.myblueprint.ca/V5/Work/Occupation. Accessed 11 Oct. 2022. 
 
 “NFL Big Data Bowl 2023 | Kaggle.” Kaggle.com, 2019, www.kaggle.com/competitions/nfl-big-data-bowl-2023. Accessed 11 Oct. 2022.
 
